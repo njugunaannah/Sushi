@@ -92,7 +92,7 @@
 
     border: none;
     outline: none;
-    background: var(--secondary-color--);
+    background: var(--secondary-color);
     border-radius: 64px;
     cursor: pointer;
 }
